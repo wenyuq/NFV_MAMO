@@ -1,5 +1,5 @@
 package zjr.assm.demo.po;
-/**虚拟链路类*/
+
 public class SfcLink {
     private int sfcId;
     private int from;

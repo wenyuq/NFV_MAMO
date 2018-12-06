@@ -1,8 +1,7 @@
 package zjr.assm.demo.po;
 
 import java.util.Date;
-/**
- * 类名：*/
+
 public class Algorithm {
     private int id;
     private String algName;
